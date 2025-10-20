@@ -1,5 +1,5 @@
 print('Hello word')
 
-cars=['audi,mers']
-for i in cars:
+letter=['a','b']
+for i in letter:
     print(i)
